@@ -1,1 +1,3 @@
-Main-Class: com.tonicsystems.jarjar.Main
+version https://git-lfs.github.com/spec/v1
+oid sha256:d336b6662f52d36762ce0891961a07274c2c94053b545a6fa1b92623f6e1c5ed
+size 41
